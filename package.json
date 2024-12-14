@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://mwheeler2244.github.io/react-meme-generator/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
